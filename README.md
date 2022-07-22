@@ -22,7 +22,10 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/hugobrendow/hugobrendow/blob/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg"/>
+</div>
+
 
 <br clear="both">
 <h3 align="left">Connect with me:</h3>
