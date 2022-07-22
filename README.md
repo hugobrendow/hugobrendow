@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hugo Brendow</h1>
+![header](./github-header-image.png)
 
 - 🔭 I’m currently working on **unico**
 
