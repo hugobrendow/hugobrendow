@@ -1,6 +1,6 @@
 ![header](./github-header-image.png)
 
-- 🔭 I’m currently working on **unico**
+- 🔭 I’m currently working on **Banco Cora**
 
 - 🤝 I’m looking for help with **java, kotlin, microservices**
 
